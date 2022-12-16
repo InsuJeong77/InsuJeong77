@@ -6,9 +6,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="javascript" width="40" height="40"/>
-  
-
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="javascript" width="40" height="40"/>
 
 <!--
 Here are some ideas to get you started:
